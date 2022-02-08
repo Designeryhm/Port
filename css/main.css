@@ -542,9 +542,9 @@ footer ul li {
     border: 1px solid #fff;
 }
 footer ul li:nth-child(1) {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255 , 0.3) ;
 }
-footer ul li:nth-child(1) a {color: #333;}
+footer ul li:nth-child(1) a {color: whitesmoke;}
 footer p {
     width: 95%;
     margin: 0 auto;
